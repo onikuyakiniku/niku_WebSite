@@ -1,5 +1,5 @@
 ---
-title: "肉"
+title: "頑張りますよ"
 author: default
 permalink: /
 ---
@@ -12,26 +12,26 @@ permalink: /
 ---
 
 
-# 自己紹介
+# Self-introduction
 
 ### Username
 
-肉
+肉(颯希)
 
-### hobbies
+### Hobbies
 
 - ゲーム
 - ドラム
 - ラノベ読む
 
-### gaming
+### Gaming
 
 - APEX
 - スプラトゥーン3
 - 三國志真戦
 - 三國志８REMAKE PK
 
-### comment
+### Comment
 
 三國志について語り合いましょう。APEXマスター目指し中。Switchプレデター経験済み。
 
