@@ -14,25 +14,27 @@ permalink: /
 
 # 自己紹介
 
-### 名前
+### Username
 
 肉
 
+### hobbies
+
+- ゲーム
+- ドラム
+- ラノベ読む
+
+### gaming
+
+- APEX
+- スプラトゥーン3
+- 三國志真戦
+- 三國志８REMAKE PK
 
 
 
-> 引用
->> 多重引用
 
 
-- 箇条書きリスト
-  - ネスト
-    - さらにネスト
-
-
-1. 番号付きリスト
-   1. ネスト
-      1. さらにネスト
 
 
 | 列1  | 列2  |
@@ -40,4 +42,3 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
