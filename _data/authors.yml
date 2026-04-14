@@ -1,6 +1,6 @@
 default:
   name: "肉(颯希)"
-  avatar: "/assets/images/icons/yakiniku.png"
+  avatar: "/assets/images/icons/yakiniku.jpg"
   bio: "一応ドラマー"
   links:
     - label: ""
