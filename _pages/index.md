@@ -1,5 +1,5 @@
 ---
-title: "頑張りますよ"
+title: "三國志"
 author: default
 permalink: /
 ---
